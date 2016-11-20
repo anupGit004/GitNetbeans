@@ -14,4 +14,3 @@ and open the template in the editor.
         echo "hello"; // new changes by local 
         ?>
     </body>
-</html>
