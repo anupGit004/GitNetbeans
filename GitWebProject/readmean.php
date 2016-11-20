@@ -12,5 +12,8 @@ Class MyClass{
             $isRead;
     protected  $inherit;
     
+    function checkPrice(){
+        return true;
+    }
     
 }
