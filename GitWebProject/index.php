@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "hello";
+        echo "hello"; // new changes by local 
         ?>
     </body>
 </html>
