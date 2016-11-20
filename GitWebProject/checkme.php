@@ -8,5 +8,7 @@
 
 Class MyClass{
     
+    private $read;
+    protected  $inherit;
     
 }
